@@ -1,3 +1,1 @@
-
-
-printf("Hello Happy World!\n");
+printf("Hello Crazy World!\n");
