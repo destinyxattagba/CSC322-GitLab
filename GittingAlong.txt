@@ -1,0 +1,31 @@
+mkdir GitLab
+cd GitLab
+echo 'printf("Hello World!\n");' > HelloWorld.c
+git init
+git add HelloWorld.c
+git commit -m "hello world"
+git remote add origin git@github.com:destinyxattagba/CSC322-GitLab.git
+git branch -M main
+git push -u origin main
+echo 'printf("Hello Crool World!\n");' > HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Crool World"
+git push
+git checkout -b Happy
+git push -u origin Happy
+echo 'printf("Hello Happy World!\n");' > HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Happy World"
+git push
+git checkout main
+echo 'printf("Hello Very Crool World!\n");' > HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Very Crool World"
+git push
+git merge Happy -m "merge"
+git push
+echo 'printf("Hello Crazy World!\n");' > HelloWorld.c
+git add HelloWorld.c
+git commit -m "Changed to Hello Crazy World"
+git push
+git log --all --graph > GitLog.txt

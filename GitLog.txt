@@ -1,0 +1,36 @@
+* commit b191120b09ffaa2d376099145bb9d0af4e9fd8ed
+| Author: Attagba <dra86@miami.edu>
+| Date:   Thu Oct 16 07:10:45 2025 -0400
+| 
+|     hello crazy world
+|   
+*   commit efaaa16f5786b21097120329258afc06c50cbad5
+|\  Merge: 85e391f a00446f
+| | Author: Attagba <dra86@miami.edu>
+| | Date:   Thu Oct 16 07:09:15 2025 -0400
+| | 
+| |     merged happy branch : Hello very happy world
+| | 
+| * commit a00446f123a85fdcace357906536a15899960e8e
+| | Author: Attagba <dra86@miami.edu>
+| | Date:   Thu Oct 16 06:33:47 2025 -0400
+| | 
+| |     changed 2 hello happy world
+| | 
+* | commit 85e391f78e77b636758055c7435dde13677595fc
+|/  Author: Attagba <dra86@miami.edu>
+|   Date:   Thu Oct 16 07:01:00 2025 -0400
+|   
+|       changed back 2 hello very crool world
+| 
+* commit 049044497a5bbbe3a8136056553202d0b9c1d07f
+| Author: Attagba <dra86@miami.edu>
+| Date:   Thu Oct 16 06:32:12 2025 -0400
+| 
+|     changed to hello crool world
+| 
+* commit 68cae492b1add867d05abd7dd7693fb67d5b8f09
+  Author: Attagba <dra86@miami.edu>
+  Date:   Thu Oct 16 06:11:11 2025 -0400
+  
+      hello wrld
